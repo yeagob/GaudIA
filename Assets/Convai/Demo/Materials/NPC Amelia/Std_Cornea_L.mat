@@ -114,7 +114,6 @@ Material:
     m_Floats:
     - BOOLEAN_ISCORNEA: 1
     - _AOStrength: 0.5
-    - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
     - _AlphaToMask: 0

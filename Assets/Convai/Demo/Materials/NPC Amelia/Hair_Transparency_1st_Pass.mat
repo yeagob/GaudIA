@@ -126,7 +126,6 @@ Material:
     - BOOLEAN_ENABLECOLOR: 0
     - _AOOccludeAll: 0
     - _AOStrength: 1
-    - _AddPrecomputedVelocity: 0
     - _AlphaClip: 1
     - _AlphaClip2: 0.15
     - _AlphaCutoff: 0.5

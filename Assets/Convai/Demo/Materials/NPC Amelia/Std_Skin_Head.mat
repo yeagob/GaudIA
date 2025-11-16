@@ -215,7 +215,6 @@ Material:
     - _AOStrength: 1
     - _AScatterScale: 1
     - _ASmoothnessMod: 0.574
-    - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
     - _AlphaToMask: 0
