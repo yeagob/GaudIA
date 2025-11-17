@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GaudIAMainScene.unity
     guid: 28a7e4df8f460c04ebf047a970311620
+  - enabled: 1
+    path: Assets/Convai/ConvaiAR/Scenes/Convai Demo - AR.unity
+    guid: d23e25ca551aacf4c80e8a01703e8490
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b71abdcb0965af745982c15247b1d41a, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ffdcbd180cf4b634bbf03998612b8018, type: 2}

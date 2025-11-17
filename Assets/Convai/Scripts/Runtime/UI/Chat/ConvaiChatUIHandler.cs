@@ -20,9 +20,9 @@ namespace Convai.Scripts.Runtime.UI
         /// </summary>
         public enum UIType
         {
+            Subtitle,
             ChatBox,
             QuestionAnswer,
-            Subtitle
         }
 
         [Header("UI Prefabs")] [Tooltip("Prefab for the chat box UI.")]
